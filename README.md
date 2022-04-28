@@ -10,7 +10,7 @@ output: html_document
 ```{r}
 # set up a path
 setwd("clipboard")
-source("LOD Function.R")
+source("LoD Function.R")
 
 # generate X which is numeric vector
 X<- c(rnorm(10, 2, 10))
@@ -23,9 +23,9 @@ limit(X, Y)
 ```
 
 
-# Detail of LOD Function 
+# Detail of LoD Function 
 ---
-title: "LOD Function"
+title: "LoD Function"
 author: "Huizi Wang"
 date: "4/28/2022"
 output: html_document
