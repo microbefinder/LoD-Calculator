@@ -64,7 +64,7 @@ output: html_document
 ---
 
 
-## limit: Calculating Limit of Detection (LoD) and Generating Plot
+limit: Calculating Limit of Detection (LoD) and Generating Plot
 
 Description
 
