@@ -53,3 +53,54 @@ limit<- function(X, Y){
   
 }
 ```
+
+
+# Help File
+---
+title: "Help File"
+author: "Huizi Wang"
+date: "4/28/2022"
+output: html_document
+---
+
+
+## R Markdown
+
+limit: Calculating Limit of Detection (LoD) and Generating Plot
+
+Description
+
+‘limit’ is used to calculate limit of detection, specified by giving mean and variance for your input values, also generating box plot and probability curve with the certain pathogen. 
+
+
+Usage
+
+limit(X, Y)           
+
+
+Arguments
+
+X                                a numeric vector; Total Score (TS) for every observation with negative         
+                                 diagnostic assays of PCR.                                             
+
+Y                                a numeric vector; TS for every observation with positive diagnostic 
+                                 assays of PCR.
+                                              
+Value
+
+mean_of_N                        gives mean for the samples with negative diagnostic assays of PCR.
+ 
+variance_of_N                    gives variance for the samples with negative diagnostic assays of PCR.
+
+mean_of_Y                        gives mean for the samples with positive diagnostic assays of PCR.
+
+variance_of_Y                    gives variance for the samples with positive diagnostic assays of PCR.
+
+Limit_of_Detection               gives Limit of Detection (LoD) under 50% chance for getting disease.                         
+
+Box_Plot                         gives box plot of X and Y. The red line indicates the LoD for a pathogen.
+                                             
+Prob_Plot                        gives the curve of the probability of getting a pathogen given a TS. The 
+                                 red horizontal and vertical lines indicate the LoD and its probability. 
+
+
