@@ -1,6 +1,6 @@
 # LoD-Calculator
 ---
-title: "Untitled"
+title: "LoD-Calculator"
 author: "Huizi Wang"
 date: "4/6/2022"
 output: html_document
@@ -23,6 +23,7 @@ limit(X, Y)
 ```
 
 
+# Detail of LOD Function 
 ---
 title: "LOD Function"
 author: "Huizi Wang"
