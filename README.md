@@ -64,9 +64,7 @@ output: html_document
 ---
 
 
-## R Markdown
-
-limit: Calculating Limit of Detection (LoD) and Generating Plot
+## limit: Calculating Limit of Detection (LoD) and Generating Plot
 
 Description
 
