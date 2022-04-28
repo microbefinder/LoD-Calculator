@@ -78,10 +78,10 @@ limit(X, Y)
 
 Arguments
 
-X                                a numeric vector; Total Score (TS) for every observation with negative         
+X                                is a numeric vector; Total Score (TS) for every observation with negative         
                                  diagnostic assays of PCR.                                             
 
-Y                                a numeric vector; TS for every observation with positive diagnostic 
+Y                                is a numeric vector; TS for every observation with positive diagnostic 
                                  assays of PCR.
                                               
 Value
