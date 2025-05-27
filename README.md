@@ -2,7 +2,6 @@
 
 ## Author: Huizi Wang
 
-
 ```{r}
 # set up a path
 setwd("clipboard")
@@ -19,14 +18,7 @@ limit(X, Y)
 ```
 
 
-# Detail of LoD Function 
----
-title: "LoD Function"
-author: "Huizi Wang"
-date: "4/28/2022"
-output: html_document
----
-
+## Detail of LoD Function 
 
 ```{r}
 limit<- function(X, Y){
@@ -51,14 +43,7 @@ limit<- function(X, Y){
 ```
 
 
-# Help File
----
-title: "Help File"
-author: "Huizi Wang"
-date: "4/28/2022"
-output: html_document
----
-
+## Help File
 
 limit: Calculating Limit of Detection (LoD) and Generating Plot
 
