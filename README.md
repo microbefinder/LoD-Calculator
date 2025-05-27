@@ -1,10 +1,8 @@
 # LoD-Calculator
----
-title: "LoD-Calculator"
-author: "Huizi Wang"
-date: "4/6/2022"
-output: html_document
----
+
+## author: "Huizi Wang"
+
+### date: "4/6/2022"
 
 
 ```{r}
