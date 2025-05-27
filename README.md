@@ -1,4 +1,4 @@
-# LoD-Calculator
+# LoD Calculator
 
 ## Author: Huizi Wang
 
