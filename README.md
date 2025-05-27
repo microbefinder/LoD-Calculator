@@ -18,7 +18,7 @@ limit(X, Y)
 ```
 
 
-## Detail of LoD Function 
+## Details of the LoD Function 
 
 ```{r}
 limit<- function(X, Y){
