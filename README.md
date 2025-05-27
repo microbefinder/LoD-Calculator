@@ -1,8 +1,6 @@
 # LoD-Calculator
 
-## author: "Huizi Wang"
-
-### date: "4/6/2022"
+## Author: Huizi Wang
 
 
 ```{r}
