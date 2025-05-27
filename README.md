@@ -47,17 +47,17 @@ limit<- function(X, Y){
 
 limit: Calculating Limit of Detection (LoD) and Generating Plot
 
-Description
+### Description
 
 ‘limit’ is used to calculate limit of detection, specified by giving mean and variance for your input values, also generating box plot and probability curve with the certain pathogen. 
 
 
-Usage
+### Usage
 
 limit(X, Y)           
 
 
-Arguments
+### Arguments
 
 X                                is a numeric vector; Total Score (TS) for every observation with negative         
                                  diagnostic assays of PCR.                                             
@@ -65,7 +65,7 @@ X                                is a numeric vector; Total Score (TS) for every
 Y                                is a numeric vector; TS for every observation with positive diagnostic 
                                  assays of PCR.
                                               
-Value
+### Value
 
 mean_of_N                        gives mean for the samples with negative diagnostic assays of PCR.
  
